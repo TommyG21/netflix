@@ -1,9 +1,10 @@
 import "./App.css";
+import Section from "./Components/Section";
 
 function App() {
   return (
     <div>
-      Hello from <a href="https://www.lereacteur.io">Le Reacteur !</a>
+      <Section />
     </div>
   );
 }
